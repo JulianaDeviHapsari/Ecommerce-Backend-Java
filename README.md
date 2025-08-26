@@ -4,7 +4,7 @@ E-Commerce Backend Java using Java, PostgreSQL, Postman, and Laragon in Fast Cam
 
 ## Demo
 
-[E-Commerce Backend Java](https://appleipad-indonesia-6iiblkkbn-juliana-devi-hapsaris-projects.vercel.app/)
+[E-Commerce Backend Java](https://julianadevi.postman.co/workspace/Juliana-Devi's-Workspace~f92d400d-6a59-4d99-827d-0ad90cf1130e/collection/46915499-d879c32e-6e7f-4db2-94f4-6a914db29704?action=share&creator=46915499)
 
 ## Screenshots
 
