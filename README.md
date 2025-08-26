@@ -1,6 +1,6 @@
 # E-Commerce Backend Java
 
-E-Commerce Backend Java using Java, PostgreSQL, Postman, and Laragon in Fast Campus Course
+E-Commerce Backend Java using Java, PostgreSQL, Postman, and Springboot in Fast Campus Course
 
 ## Demo
 
@@ -12,7 +12,7 @@ E-Commerce Backend Java using Java, PostgreSQL, Postman, and Laragon in Fast Cam
 
 ## Tech Stack
 
-**Client:** Java, PostgreSQL, Postman, and Laragon
+**Client:** Java, PostgreSQL, Postman, and Springboot
 
 ## Authors
 
