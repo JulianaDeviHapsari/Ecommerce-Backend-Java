@@ -8,7 +8,7 @@ E-Commerce Backend Java using Java, PostgreSQL, Postman, and Laragon in Fast Cam
 
 ## Screenshots
 
-![E-Commerce Backend Java](./src/assets/Screenshot%202025-02-28%20124818.png)
+![E-Commerce Backend Java](./Screenshot 2025-08-01 150706.png)
 
 ## Tech Stack
 
