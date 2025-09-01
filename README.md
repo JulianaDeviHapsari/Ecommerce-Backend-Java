@@ -1,6 +1,6 @@
 # E-Commerce Backend Java
 
-E-Commerce Backend Java using Java, PostgreSQL, Postman, and Springboot in Fast Campus Course
+E-Commerce Backend using Java, PostgreSQL, Postman and Springboot in Fast Campus Course
 
 ## Demo
 
